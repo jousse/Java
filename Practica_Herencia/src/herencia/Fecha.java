@@ -14,7 +14,7 @@ public class Fecha {
 				
 	}
 	public void mostrarFecha(){
-		System.out.println("Dia: "+ dia+" Mes : "+mes+" Año : "+anno);
+		System.out.println("Dia: "+ dia+" Mes : "+mes+" ANNo : "+anno);
 	}
 	public int getDia() {
 		return dia;

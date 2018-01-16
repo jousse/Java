@@ -14,7 +14,7 @@ public class Principal {
 		Secretario s1=new Secretario("Paco",1250,null,5);
 		Gerente g1=new Gerente("Pedro",1350,f1,150,"Ventas");
 		Director d1=new Director("Jouse",1350,f1,150,"Direccion",  v1,telefonos);
-		//Invocacion de métodos
+		//Invocacion de mEtodos
 		System.out.println("Categoria : " + Empleado.class.getName().substring(9));
 		e1.mostrarDatos();
 		System.out.println("Categoria : " + Gerente.class.getName().substring(9));

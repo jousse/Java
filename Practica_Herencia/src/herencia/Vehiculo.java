@@ -12,7 +12,7 @@ public class Vehiculo {
 		this.fechaM = fechaM;
 	}
 	public void mostrarVehiculo(){
-		System.out.println(" Marca: " + marca + " Modelo : "+modelo);
+		System.out.println(" Marca PALOTE GORDO: " + marca + " Modelo : "+modelo);
 		fechaM.mostrarFecha();
 	}
 	
