@@ -26,7 +26,7 @@ public class Director extends Gerente {
 	
 	public void mostrarTelefonos(){
 		for(int i=0;i<telefonos.length;i++){
-			System.out.println(telefonos[i]);
+			System.out.println("Agenda Telefono Nº "+i+" -  "+telefonos[i]);
 		}
 	}
 
